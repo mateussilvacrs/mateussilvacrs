@@ -11,17 +11,23 @@ Here are some ideas to get you started:
   <img height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussilvacrs&hide_progress=true&title_color=4a0072&bg_color=000000&text_color=ffffff&langs_count=16&custom_title=Estatísticas+de+Linguagem&size_weight=0.5&count_weight=0.5" />
   </a>
 </div>
+<div>
+      <img align="right" alt="Mateus-React" height="150" whidth="90" src="https://media.discordapp.net/attachments/1328865335222472776/1364622584158883900/ezgif.com-resize.gif?ex=680a5751&is=680905d1&hm=ca4c027615bb767cd83cddb74da91449fc5fbbf6119a617b5ff212b2db42b6d6&=">
+</div>
 
 <div>
+
   <br>
   <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mateus-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mateus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="Mateus-React" src="https://media.discordapp.net/attachments/1328865335222472776/1364622584158883900/ezgif.com-resize.gif?ex=680a5751&is=680905d1&hm=ca4c027615bb767cd83cddb74da91449fc5fbbf6119a617b5ff212b2db42b6d6&=">
+  <br>
+
 </div>
 
 ##
+
 
 <div>
  <a href="https://discord.com/channels/@mccrs./" target= "_blank"> <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white"></a>
