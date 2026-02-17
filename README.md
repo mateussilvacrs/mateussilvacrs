@@ -1,6 +1,6 @@
 ## Olá sejá bem-vindo 👋
 
-Olá eu sou o Mateus, tenho 25 anos e adoro programar e jogar, moro em São Paulo, comecei no mundo da programação em 2012 criando diversos Blogger(sim aqueles blogs antigos kk), nele fui aprendendo HTML (inserindo Chats, web rádios e etc.), após fui aprendendo a criar jogos (a maioria dos meus blogs eram relacionados ao jogo chamado Transformice (o jogo do rato)), então tive a ideia de criar minha própria versão de jogo uma versão "Pirata" e consegui, logo me interessei nessa área de jogos e fui aprendendo cada vez mais.
+Olá eu sou o Mateus, tenho 26 anos e adoro programar e jogar, moro em São Paulo, comecei no mundo da programação em 2012 criando diversos Blogger(sim aqueles blogs antigos kk), nele fui aprendendo HTML (inserindo Chats, web rádios e etc.), após fui aprendendo a criar jogos (a maioria dos meus blogs eram relacionados ao jogo chamado Transformice (o jogo do rato)), então tive a ideia de criar minha própria versão de jogo uma versão "Pirata" e consegui, logo me interessei nessa área de jogos e fui aprendendo cada vez mais.
 
 ## No momento estou desenvolvendo as questões abaixo:
 
