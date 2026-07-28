@@ -5,7 +5,7 @@ Olá eu sou o Mateus, tenho 26 anos e adoro programar e jogar, moro em São Paul
 ## No momento estou desenvolvendo as questões abaixo:
 
 - 🔭 Desenvolvendo com front-end.
-- 👩‍💻 Estudando React JS e React Native.
+- 👩‍💻 Estudando React JS, React Native e Next JS.
 
 <div>
   <a href="https://github.com/mateussilvacrs" >
