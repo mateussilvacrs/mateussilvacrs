@@ -1,43 +1,73 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=D20482&center=true&vCenter=true&multiline=true&width=460&height=80&lines=Welcome+to+my+profile!;Bem-Vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=D20482&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Welcome+to+my+profile!;Bem-Vindo+ao+meu+perfil!" alt="Typing SVG" />
+  </a>
 </div>
 
-## Desenvolvedor Full Stack
+---
 
-Olá eu sou o Mateus, tenho 26 anos e adoro programar e jogar, moro em São Paulo, comecei no mundo da programação em 2012 criando diversos Blogger(sim aqueles blogs antigos kk), nele fui aprendendo HTML (inserindo Chats, web rádios e etc.), após fui aprendendo a criar jogos (a maioria dos meus blogs eram relacionados ao jogo chamado Transformice (o jogo do rato)), então tive a ideia de criar minha própria versão de jogo uma versão "Pirata" e consegui, logo me interessei nessa área de jogos e fui aprendendo cada vez mais.
+### 👨‍💻 Sobre Mim
 
-#### No momento estou desenvolvendo as questões abaixo:
+Olá! Eu sou o **Mateus**, tenho 26 anos, moro em São Paulo e sou apaixonado por programação e games. 🎮
 
-- 🔭 Desenvolvendo com front-end.
-- 👩‍💻 Estudando React JS, React Native e Next JS.
+Minha jornada na tecnologia começou lá em **2012** customizando páginas no *Blogger* (sim, aqueles blogs nostálgicos! 😄). Foi ali que dei meus primeiros passos com **HTML**, inserindo chats, web rádios e ajustando layouts. 
 
-#### Minhas Skills:
+Pouco depois, mergulhei no universo dos jogos e cheguei a criar meu próprio servidor e versão do famoso *Transformice* (o jogo do rato 🐭). Essa experiência me fez me apaixonar de vez pelo desenvolvimento de software e, desde então, sigo aprendendo e evoluindo cada vez mais!
+
+---
+
+#### 🚀 O que estou fazendo agora
+
+- 🔭 **Desenvolvendo:** Projetos focados no ecossistema **Front-end**.
+- 📚 **Estudando e aprimorando:** **React JS**, **React Native** e **Next.js**.
+- 💡 **Foco:** Criar aplicações modernas, rápidas e com ótima experiência de usuário.
+
+---
+
+#### 🛠️ Minhas Skills & Tecnologias
+
 <div>
-  <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mateus-HTML" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mateus-CSS3" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Mateus-React" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,git,github&perline=8" alt="My Skills" />
+
 </div>
 
-##
+---
 
+#### 🤝 Vamos nos conectar?
 
 <div>
-  <p>Contato:</p>
-   <a href="https://www.linkedin.com/in/mateus-silva-%F0%9F%92%BB%F0%9F%96%A5%EF%B8%8F-9915531b3/" target= "_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- <a href="https://discord.com/channels/@mccrs./" target="_blank"> <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white"></a>
- <a href="mailto:mateussilvacrs139@gmail.com" target="_blank">  <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white&color=535353" ></a>
-
+  <a href="https://www.linkedin.com/in/mateus-silva-%F0%9F%92%BB%F0%9F%96%A5%EF%B8%8F-9915531b3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  
+  <a href="https://discord.com/channels/@mccrs./" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  
+  <a href="mailto:mateussilvacrs139@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  
 </div>
-</center>
 
-#### Statistics:
+#### 📊 Estatísticas do GitHub
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mateussilvacrs&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=bear)](https://github-stats-extended.vercel.app/api?username=mateussilvacrs&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=bear)
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=mateussilvacrs&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=radical" width="48%" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=mateussilvacrs&hide_title=true&langs_count=4&theme=radical" width="28%" alt="Top Languages" />
+</div>
 
+<br>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateussilvacrs/mateussilvacrs/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateussilvacrs/mateussilvacrs/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mateussilvacrs/mateussilvacrs/output/github-contribution-grid-snake.svg">
-</picture>
+---
+
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateussilvacrs/mateussilvacrs/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateussilvacrs/mateussilvacrs/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mateussilvacrs/mateussilvacrs/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
